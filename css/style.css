@@ -1,0 +1,62 @@
+body {
+    overflow: hidden;
+}
+
+.background-1 {
+    position: absolute;
+    background: url("../img/hills_01.png") repeat-x;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    transition: all 0.3s ease;
+}
+
+.background-2 {
+    position: absolute;
+    background: url("../img/hills_02.png") repeat-x;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    transition: all 0.3s ease;
+}
+
+.background-3 {
+    position: absolute;
+    background: url("../img/hills_03.png") repeat-x;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    transition: all 0.3s ease;
+}
+
+.background-4 {
+    position: absolute;
+    background: url("../img/hills_04.png") repeat-x;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    transition: all 0.3s ease;
+}
+
+.background-5 {
+    position: absolute;
+    background: url("../img/hills_05.png") repeat-x;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    transition: all 0.3s ease;
+}
+
+.background-6 {
+    position: absolute;
+    background: url("../img/hills_06.png") repeat-x;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    transition: all 0.3s ease;
+}
+
+.is-score {
+    background: rgba(0, 0, 0, 0.3) !important;
+    color: #fff !important;
+}
